@@ -1,0 +1,20 @@
+.spinnerContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem;
+  min-height: 300px;
+}
+
+.spinner {
+  width: 3rem;
+  height: 3rem;
+  color: #007bff;
+}
+
+.message {
+  margin-top: 1rem;
+  color: #6c757d;
+  font-size: 1.1rem;
+}

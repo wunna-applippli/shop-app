@@ -1,0 +1,55 @@
+.successContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 60vh;
+}
+
+.successCard {
+  max-width: 600px;
+  width: 100%;
+  border: none;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.checkmark {
+  color: #28a745;
+  font-size: 4rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.successTitle {
+  color: #28a745;
+  margin-bottom: 2rem;
+  font-weight: bold;
+}
+
+.successAlert {
+  text-align: left;
+  margin-bottom: 2rem;
+}
+
+.orderDetails {
+  margin-bottom: 2rem;
+}
+
+.orderDetails h5 {
+  color: #495057;
+  margin-bottom: 1rem;
+}
+
+.nextSteps {
+  text-align: left;
+  color: #6c757d;
+}
+
+.nextSteps li {
+  margin-bottom: 0.5rem;
+}
+
+.continueButton {
+  padding: 12px 40px;
+  font-size: 1.1rem;
+  font-weight: bold;
+}

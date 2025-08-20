@@ -1,0 +1,14 @@
+.custom-navbar {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+/* Style for active navigation link */
+.nav-link.active {
+  color: #fff !important;
+  font-weight: bold;
+}
